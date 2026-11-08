@@ -166,19 +166,38 @@ C# 与 .NET · Python · JavaScript / TypeScript · Windows 桌面应用 · Andr
 
 ### Featured software
 
-[CapyRiver AI downloads](https://github.com/capyriver/CapyRiver-Downloads) — a local-first Windows assistant with a compact 2B option and a custom 4B LoRA adapter. The project documents upstream model provenance, device requirements, privacy boundaries, and the current Android preview limitations. [Downloads](https://github.com/capyriver/CapyRiver-Downloads/releases)
+#### CapyRiver — local AI for Android phones
 
-[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver) — a separate local-first Windows AI workspace with the original NORA identity, saved conversations, agent tools, and model catalog.
+[CapyRiver](https://capyriver.pages.dev/) is a mobile AI app for running a language model directly on an Android phone. After the model is downloaded, everyday conversations can run locally, without sending prompts to a CapyRiver server. The app guides the user through model setup, shows download progress, and verifies the model file before loading it. It is designed to make private, on-device AI practical on a phone. [Android release and downloads](https://github.com/capyriver/CapyRiver-Downloads/releases)
 
-### Избранные проекты
+#### NORA — a flexible AI workspace for Windows
 
-[CapyRiver AI downloads](https://github.com/capyriver/CapyRiver-Downloads) — локальный ИИ-помощник для Windows с компактным вариантом 2B и собственным LoRA-адаптером 4B. В проекте описаны происхождение базовых моделей, требования к устройству, границы приватности и ограничения текущего Android-preview. [Загрузки](https://github.com/capyriver/CapyRiver-Downloads/releases)
+[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver) is a Windows workspace for chatting with different local AI models and connecting model engines to one convenient interface. It includes a model catalog, saved conversations, adjustable response settings, file and project context, code helpers, and optional MCP connectors for adding external tools. Users can choose among supported model runtimes and configure the workspace for their computer. NORA is built to bring AI chats, models, files, and tools together in one desktop app.
 
-[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver) — отдельное локальное ИИ-пространство для Windows с исходным названием NORA, историей диалогов, агентскими инструментами и каталогом моделей.
+---
 
-### 精选项目
+## Русский
 
-[CapyRiver AI downloads](https://github.com/capyriver/CapyRiver-Downloads) — 面向 Windows 的本地 AI 助手，提供轻量 2B 方案和定制 LoRA 适配的 4B 方案。项目公开说明上游模型来源、设备要求、隐私边界及当前 Android 预览版的限制。[下载](https://github.com/capyriver/CapyRiver-Downloads/releases)
+### Избранные приложения
 
-[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver) — 独立的本地优先 Windows AI 工作空间，保留 NORA 品牌，并支持聊天记录、Agent 工具和模型目录。
+#### CapyRiver — локальный ИИ на Android-телефоне
 
+[CapyRiver](https://capyriver.pages.dev/) — мобильное приложение, которое запускает языковую модель прямо на Android-телефоне. После загрузки модели обычные диалоги могут обрабатываться локально, без отправки запросов на сервер CapyRiver. Приложение помогает настроить модель, показывает ход загрузки и проверяет файл перед запуском. CapyRiver делает локальный ИИ удобным для повседневного использования на телефоне. [Android-релиз и загрузки](https://github.com/capyriver/CapyRiver-Downloads/releases)
+
+#### NORA — гибкое ИИ-пространство для Windows
+
+[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver) — приложение для Windows, в котором можно общаться с разными локальными ИИ-моделями и подключать их через единый удобный интерфейс. В NORA есть каталог моделей, сохранение диалогов, настройки ответов, контекст файлов и проектов, инструменты для работы с кодом и дополнительные MCP-коннекторы для подключения внешних инструментов. Пользователь может выбрать подходящий движок модели и настроить рабочее пространство под свой компьютер. NORA объединяет ИИ-чаты, модели, файлы и инструменты в одном приложении.
+
+---
+
+## 简体中文
+
+### 精选应用
+
+#### CapyRiver — Android 手机上的本地 AI
+
+[CapyRiver](https://capyriver.pages.dev/) 是一款面向 Android 手机的 AI 应用，可直接在手机上运行语言模型。下载模型后，日常对话可以在设备本地处理，无需将提示发送到 CapyRiver 服务器。应用提供模型设置指引、下载进度，并在加载前校验模型文件，让手机端本地 AI 更便于日常使用。[Android 版本与下载](https://github.com/capyriver/CapyRiver-Downloads/releases)
+
+#### NORA — 灵活的 Windows AI 工作空间
+
+[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver) 是一款 Windows 应用，可通过统一、易用的界面与多种本地 AI 模型对话，并连接不同的模型引擎。它提供模型目录、对话保存、回答参数设置、文件与项目上下文、代码辅助工具，以及用于接入外部工具的可选 MCP 连接器。用户可以选择受支持的模型运行环境，并根据自己的电脑进行配置。NORA 将 AI 对话、模型、文件和工具整合到一个桌面应用中。
