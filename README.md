@@ -1,5 +1,7 @@
 # CapyRiver
 
+[Product website](https://capyriver.pages.dev/) · [App downloads](https://github.com/capyriver/CapyRiver-Downloads/releases) · [GitHub profile](https://github.com/capyriver)
+
 **AI software developer · 2 years building personal projects**  
 Local AI · desktop and mobile software · developer tools · automation
 
