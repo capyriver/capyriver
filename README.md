@@ -166,9 +166,9 @@ C# 与 .NET · Python · JavaScript / TypeScript · Windows 桌面应用 · Andr
 
 ### Featured software
 
-#### CapyRiver — local AI for Android phones
+#### CapyRiver — local AI for Android and PC
 
-[CapyRiver](https://capyriver.pages.dev/) is a mobile AI app for running a language model directly on an Android phone. After the model is downloaded, everyday conversations can run locally, without sending prompts to a CapyRiver server. The app guides the user through model setup, shows download progress, and verifies the model file before loading it. It is designed to make private, on-device AI practical on a phone. [Android release and downloads](https://github.com/capyriver/CapyRiver-Downloads/releases)
+[CapyRiver](https://capyriver.pages.dev/) brings local AI to Android phones and PCs, with an iPhone version planned for the future. It runs language models on the user's device, so after setup, supported conversations can be processed locally without sending prompts to a CapyRiver server. Model setup includes download progress and file integrity checks. CapyRiver is designed for efficient on-device inference, with attention to resource and battery use on mobile devices. [Releases and downloads](https://github.com/capyriver/CapyRiver-Downloads/releases)
 
 #### NORA — a flexible AI workspace for Windows
 
@@ -180,9 +180,9 @@ C# 与 .NET · Python · JavaScript / TypeScript · Windows 桌面应用 · Andr
 
 ### Избранные приложения
 
-#### CapyRiver — локальный ИИ на Android-телефоне
+#### CapyRiver — локальный ИИ для Android и ПК
 
-[CapyRiver](https://capyriver.pages.dev/) — мобильное приложение, которое запускает языковую модель прямо на Android-телефоне. После загрузки модели обычные диалоги могут обрабатываться локально, без отправки запросов на сервер CapyRiver. Приложение помогает настроить модель, показывает ход загрузки и проверяет файл перед запуском. CapyRiver делает локальный ИИ удобным для повседневного использования на телефоне. [Android-релиз и загрузки](https://github.com/capyriver/CapyRiver-Downloads/releases)
+[CapyRiver](https://capyriver.pages.dev/) переносит локальный ИИ на Android-телефоны и ПК; версия для iPhone планируется в будущем. Языковые модели запускаются на устройстве пользователя, поэтому после настройки поддерживаемые диалоги могут обрабатываться локально, без отправки запросов на сервер CapyRiver. При настройке отображается ход загрузки и проверяется целостность файла модели. CapyRiver разрабатывается с упором на эффективную работу на устройстве и экономное использование ресурсов и заряда батареи на мобильных устройствах. [Релизы и загрузки](https://github.com/capyriver/CapyRiver-Downloads/releases)
 
 #### NORA — гибкое ИИ-пространство для Windows
 
@@ -194,9 +194,9 @@ C# 与 .NET · Python · JavaScript / TypeScript · Windows 桌面应用 · Andr
 
 ### 精选应用
 
-#### CapyRiver — Android 手机上的本地 AI
+#### CapyRiver — 适用于 Android 和 PC 的本地 AI
 
-[CapyRiver](https://capyriver.pages.dev/) 是一款面向 Android 手机的 AI 应用，可直接在手机上运行语言模型。下载模型后，日常对话可以在设备本地处理，无需将提示发送到 CapyRiver 服务器。应用提供模型设置指引、下载进度，并在加载前校验模型文件，让手机端本地 AI 更便于日常使用。[Android 版本与下载](https://github.com/capyriver/CapyRiver-Downloads/releases)
+[CapyRiver](https://capyriver.pages.dev/) 将本地 AI 带到 Android 手机和 PC，未来还计划推出 iPhone 版本。语言模型在用户自己的设备上运行；完成设置后，受支持的对话可在本地处理，无需将提示发送到 CapyRiver 服务器。模型设置过程会显示下载进度，并验证模型文件的完整性。CapyRiver 注重设备端推理效率，并关注移动设备的资源与电池消耗。[版本与下载](https://github.com/capyriver/CapyRiver-Downloads/releases)
 
 #### NORA — 灵活的 Windows AI 工作空间
 
