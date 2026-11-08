@@ -1,6 +1,6 @@
 # CapyRiver
 
-**Software engineer · 6 years of hands-on experience**  
+**AI software developer · 2 years building personal projects**  
 Local AI · desktop and mobile software · developer tools · automation
 
 I build useful software around difficult engineering problems: running AI models on real devices, connecting them to tools safely, and turning prototypes into applications people can install and use. My work spans local AI, Windows and Android applications, model integration, MCP services, browser workflows, and developer productivity.
@@ -56,7 +56,7 @@ Building and documenting local AI software that is practical on everyday hardwar
 
 ### Обо мне
 
-**Разработчик программного обеспечения · 6 лет практического опыта**  
+**Разработчик ИИ-приложений · 2 года работы над личными проектами**  
 Локальный ИИ · настольные и мобильные приложения · инструменты разработчика · автоматизация
 
 Создаю прикладные решения вокруг сложных инженерных задач: запуск ИИ-моделей на реальных устройствах, безопасное подключение инструментов и превращение прототипов в приложения, которые можно установить и использовать. Работаю с локальным ИИ, приложениями для Windows и Android, интеграцией моделей, MCP-сервисами, браузерными сценариями и инструментами для разработчиков.
@@ -112,7 +112,7 @@ C# и .NET · Python · JavaScript / TypeScript · приложения для W
 
 ### 关于我
 
-**软件工程师 · 6 年实践经验**  
+**AI 软件开发者 · 2 年个人项目开发经验**  
 本地 AI · 桌面与移动应用 · 开发者工具 · 自动化
 
 我围绕实际工程问题构建软件：让 AI 模型能够在真实设备上运行，让模型以受控方式使用工具，并把原型打磨成可安装、可使用的应用。工作方向包括本地 AI、Windows 与 Android 应用、模型集成、MCP 服务、浏览器工作流和开发效率工具。
@@ -166,19 +166,19 @@ C# 与 .NET · Python · JavaScript / TypeScript · Windows 桌面应用 · Andr
 
 ### Featured software
 
-[CapyRiver AI](https://github.com/capyriver/CapyRiver-AI) — a local-first Windows assistant with a compact 2B option and a custom 4B LoRA adapter. The project documents upstream model provenance, device requirements, privacy boundaries, and the current Android preview limitations. [Product site](https://capyriver.github.io/CapyRiver-AI/) · [Downloads](https://github.com/capyriver/CapyRiver-AI/releases)
+[CapyRiver AI downloads](https://github.com/capyriver/CapyRiver-Downloads) — a local-first Windows assistant with a compact 2B option and a custom 4B LoRA adapter. The project documents upstream model provenance, device requirements, privacy boundaries, and the current Android preview limitations. [Downloads](https://github.com/capyriver/CapyRiver-Downloads/releases)
 
 [NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver) — a separate local-first Windows AI workspace with the original NORA identity, saved conversations, agent tools, and model catalog.
 
 ### Избранные проекты
 
-[CapyRiver AI](https://github.com/capyriver/CapyRiver-AI) — локальный ИИ-помощник для Windows с компактным вариантом 2B и собственным LoRA-адаптером 4B. В проекте описаны происхождение базовых моделей, требования к устройству, границы приватности и ограничения текущего Android-preview. [Сайт проекта](https://capyriver.github.io/CapyRiver-AI/) · [Загрузки](https://github.com/capyriver/CapyRiver-AI/releases)
+[CapyRiver AI downloads](https://github.com/capyriver/CapyRiver-Downloads) — локальный ИИ-помощник для Windows с компактным вариантом 2B и собственным LoRA-адаптером 4B. В проекте описаны происхождение базовых моделей, требования к устройству, границы приватности и ограничения текущего Android-preview. [Загрузки](https://github.com/capyriver/CapyRiver-Downloads/releases)
 
 [NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver) — отдельное локальное ИИ-пространство для Windows с исходным названием NORA, историей диалогов, агентскими инструментами и каталогом моделей.
 
 ### 精选项目
 
-[CapyRiver AI](https://github.com/capyriver/CapyRiver-AI) — 面向 Windows 的本地 AI 助手，提供轻量 2B 方案和定制 LoRA 适配的 4B 方案。项目公开说明上游模型来源、设备要求、隐私边界及当前 Android 预览版的限制。[产品网站](https://capyriver.github.io/CapyRiver-AI/) · [下载](https://github.com/capyriver/CapyRiver-AI/releases)
+[CapyRiver AI downloads](https://github.com/capyriver/CapyRiver-Downloads) — 面向 Windows 的本地 AI 助手，提供轻量 2B 方案和定制 LoRA 适配的 4B 方案。项目公开说明上游模型来源、设备要求、隐私边界及当前 Android 预览版的限制。[下载](https://github.com/capyriver/CapyRiver-Downloads/releases)
 
 [NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver) — 独立的本地优先 Windows AI 工作空间，保留 NORA 品牌，并支持聊天记录、Agent 工具和模型目录。
 
