@@ -20,11 +20,18 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-cover.png" alt="Soup pixel-art banner: steaming bowl, copper ladle, recipe and Kazakh ornament" width="100%" />
+  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/animated-soup-banner.svg" alt="Soup pixel-art banner: steaming bowl, copper ladle, recipe and Kazakh ornament" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&weight=500&size=16&duration=3000&pause=1000&color=C97752&center=true&vCenter=true&width=720&height=42&lines=Ideas+turn+into+working+software;Local+AI+for+everyday+devices;Learning%2C+building%2C+sharing" alt="Animated: Ideas turn into working software — Local AI for everyday devices — Learning, building, sharing" />
+</p>
+
+<p align="center">
+  <strong>Featured projects</strong><br />
+  <a href="https://capyriver.pages.dev/">CapyRiver · local AI</a> &nbsp;·&nbsp;
+  <a href="https://github.com/capyriver/NORA-CapyRiver">NORA · Windows AI workspace</a> &nbsp;·&nbsp;
+  <a href="https://github.com/MakazhanAlpamys/Soup">Soup · open-source contributions</a>
 </p>
 
 <p align="center">
