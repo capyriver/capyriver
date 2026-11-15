@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/animated-soup-banner.gif" alt="Animated Soup pixel-art banner: drifting steam and simmering broth" width="100%" />
+  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/animated-soup-banner.gif?v=bdcce321" alt="Animated Soup pixel-art banner: drifting steam and simmering broth" width="100%" />
 </p>
 
 <p align="center">
