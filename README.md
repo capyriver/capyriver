@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/soup-banner-sequence.gif?v=3f7878c" alt="Animated Soup banner: Built in Kazakhstan appears, the bowl drops, then Soup. falls in letter by letter" width="100%" />
+  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/soup-banner-loop.gif?v=20261115" alt="Looping Soup banner: the rug appears, then spoon and notebook, bowl lands, and Soup. assembles letter by letter" width="100%" />
 </p>
 
 <p align="center">
@@ -144,9 +144,6 @@ I build practical AI software for the devices people already have. My work focus
   <a href="https://github.com/Feruum/SoupTask/tree/main/assets/readme/soup-icons">
     <sub>Pixel-art icons: SoupTask by Feruum</sub>
   </a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9A4F31,55:211B19,100:0B0D10&height=110&section=footer&animation=fadeIn" alt="" width="100%" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/kazakh-ornament.png" alt="Pixel-art Kazakh ornament from SoupTask" width="320" />
