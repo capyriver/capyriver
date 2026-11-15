@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/soup-banner-loop.gif?v=20261115" alt="Looping Soup banner: the rug appears, then spoon and notebook, bowl lands, and Soup. assembles letter by letter" width="100%" />
+  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/soup-banner-final.gif?v=20261115b" alt="Looping Soup banner: the rug appears, then spoon and notebook, bowl lands, and Soup. assembles letter by letter" width="100%" />
 </p>
 
 <p align="center">
