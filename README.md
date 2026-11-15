@@ -1,81 +1,125 @@
-<!-- SoupTask visual assets are used with the owner's permission. -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-cover.png" alt="Soup pixel art cover" width="100%" />
-  <h1>CapyRiver</h1>
-  <p><strong>Practical AI for everyday devices.</strong><br />
-  Local inference · useful tools · measured engineering</p>
-  <p>
-    <a href="https://capyriver.pages.dev/">Website</a> ·
-    <a href="https://github.com/capyriver/NORA-CapyRiver">NORA</a> ·
-    <a href="https://github.com/capyriver/CapyRiver-Downloads/releases">Downloads</a> ·
-    <a href="https://github.com/MakazhanAlpamys/Soup">Soup contributions</a>
-  </p>
-</div>
+<!-- Profile layout inspired by Feruum/SoupTask; SoupTask pixel icons are credited below. -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D10,55:211B19,100:9A4F31&height=210&section=header&text=CapyRiver&fontColor=F4E9D8&fontSize=56&fontAlignY=36&desc=LOCAL%20AI%20%E2%80%A2%20PRACTICAL%20TOOLS%20%E2%80%A2%20OPEN%20SOURCE&descAlignY=57&descSize=14&animation=fadeIn" alt="CapyRiver — local AI, practical tools, open source" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&weight=500&size=17&duration=3200&pause=1100&color=C97752&center=true&vCenter=true&width=720&height=46&lines=Local+AI+for+everyday+devices;Building+CapyRiver+and+NORA;Learning+in+open+source+with+Soup" alt="Local AI for everyday devices — building CapyRiver and NORA — learning in open source with Soup" />
+</p>
+
+<p align="center">
+  <a href="#en">EN</a>&nbsp; · &nbsp;<a href="#ru">RU</a>&nbsp; · &nbsp;<a href="#zh">中文</a>&nbsp; · &nbsp;<a href="#kk">ҚАЗ</a>
+  <br /><br />
+  <a href="https://capyriver.pages.dev/">Website</a>&nbsp; · &nbsp;<a href="https://github.com/capyriver/NORA-CapyRiver">NORA</a>&nbsp; · &nbsp;<a href="https://github.com/capyriver/CapyRiver-Downloads/releases">Downloads</a>&nbsp; · &nbsp;<a href="https://github.com/MakazhanAlpamys/Soup">Soup</a>
+</p>
 
 ---
 
-## About
+<a id="en"></a>
+## English
 
-I build AI software that can run on the devices people already have. My projects explore local models, practical desktop and mobile workflows, and clear reporting of performance and hardware limits.
+I build practical AI software for the devices people already have. My work focuses on local inference, useful desktop and mobile workflows, and clear reporting of performance and hardware limits.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-phone.png" alt="" width="64" />
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-code.png" alt="" width="64" />
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-monitor.png" alt="" width="64" />
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-motion.png" alt="" width="64" />
-</div>
+### Projects
 
-## Projects
-
-| Project | What it is |
+| Project | Focus |
 | --- | --- |
-| **[CapyRiver](https://capyriver.pages.dev/)** | Local AI for Android and PC. [Get the apps](https://github.com/capyriver/CapyRiver-Downloads/releases). |
-| **[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver)** | A Windows AI workspace for models, chats, files, projects, and optional MCP tools. |
-| **[Soup](https://github.com/MakazhanAlpamys/Soup)** | Open-source work on training, benchmarking, and Hugging Face Spaces workflows. |
+| **[CapyRiver](https://capyriver.pages.dev/)** | Local AI for Android and PC. Find builds on the [downloads page](https://github.com/capyriver/CapyRiver-Downloads/releases). |
+| **[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver)** | A Windows AI workspace for local models, chats, files, projects, and optional MCP tools. |
+| **[Soup](https://github.com/MakazhanAlpamys/Soup)** | Open-source contributions around training, benchmarking, memory estimates, and Hugging Face Spaces. |
 
-## Selected Soup contributions
+### Selected merged work
 
-<img align="right" src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-check.png" alt="" width="72" />
+- [Fast-LoRA CUDA T4 measurements](https://github.com/MakazhanAlpamys/Soup/pull/2621) · [chat-template regression coverage](https://github.com/MakazhanAlpamys/Soup/pull/2657)
+- [cuBLAS workspace in memory estimates](https://github.com/MakazhanAlpamys/Soup/pull/2749) · [MLX docs and checks](https://github.com/MakazhanAlpamys/Soup/pull/2786)
+- [Hugging Face Spaces hardware selection](https://github.com/MakazhanAlpamys/Soup/pull/2815) · [clearer deploy errors](https://github.com/MakazhanAlpamys/Soup/pull/2834)
+- [QuEST benchmark capacity notes](https://github.com/MakazhanAlpamys/Soup/pull/2715)
 
-- [#2621](https://github.com/MakazhanAlpamys/Soup/pull/2621) — reproducible CUDA T4 measurements for a Fast-LoRA MLP.
-- [#2657](https://github.com/MakazhanAlpamys/Soup/pull/2657) — fixes and regression tests for generated chat Space templates.
-- [#2749](https://github.com/MakazhanAlpamys/Soup/pull/2749) — account for cuBLAS workspace in layer-streaming memory estimates.
-- [#2786](https://github.com/MakazhanAlpamys/Soup/pull/2786) — MLX task documentation and regression coverage.
-- [#2815](https://github.com/MakazhanAlpamys/Soup/pull/2815) and [#2834](https://github.com/MakazhanAlpamys/Soup/pull/2834) — Hugging Face Spaces hardware selection and clearer deployment errors.
-- [#2715](https://github.com/MakazhanAlpamys/Soup/pull/2715) — QuEST benchmark capacity notes.
-
-## Engineering approach
-
-I aim to make model provenance, hardware requirements, and limitations clear. I value reproducible checks, measured results, and tools that are understandable to the people using them.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-data.png" alt="" width="54" />
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-chart.png" alt="" width="54" />
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-layers.png" alt="" width="54" />
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-open.png" alt="" width="54" />
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-palette.png" alt="" width="54" />
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-recipe.png" alt="" width="54" />
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-start.png" alt="" width="54" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-code.png" width="48" alt="Pixel-art code icon from SoupTask" />
+  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-check.png" width="48" alt="Pixel-art verification icon from SoupTask" />
+  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-chart.png" width="48" alt="Pixel-art chart icon from SoupTask" />
+</p>
 
 ---
 
+<a id="ru"></a>
 ## Русский
 
-Создаю прикладные ИИ-программы для устройств, которые уже есть у пользователей. Интересуюсь локальным запуском моделей, настольными и мобильными инструментами, а также честными измерениями производительности и требований к оборудованию.
+Создаю прикладные ИИ-программы для обычных устройств. Работаю над локальным запуском моделей, удобными сценариями для ПК и мобильных устройств, а также понятными измерениями производительности и требований к оборудованию.
 
 ### Проекты
 
-- **[CapyRiver](https://capyriver.pages.dev/)** — локальный ИИ для Android и ПК. [Скачать приложения](https://github.com/capyriver/CapyRiver-Downloads/releases).
-- **[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver)** — рабочее пространство для Windows: модели, чаты, файлы, проекты и дополнительные MCP-инструменты.
-- **[Soup](https://github.com/MakazhanAlpamys/Soup)** — вклад в открытый проект: обучение и оценка моделей, поддержка Hugging Face Spaces.
+| Проект | Направление |
+| --- | --- |
+| **[CapyRiver](https://capyriver.pages.dev/)** | Локальный ИИ для Android и ПК. Сборки доступны на [странице загрузок](https://github.com/capyriver/CapyRiver-Downloads/releases). |
+| **[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver)** | Рабочее пространство для Windows: локальные модели, чаты, файлы, проекты и дополнительные MCP-инструменты. |
+| **[Soup](https://github.com/MakazhanAlpamys/Soup)** | Вклад в открытый проект: обучение и оценка моделей, оценка памяти и интеграция с Hugging Face Spaces. |
 
-### Вклад в Soup
+### Выбранные объединённые изменения
 
-Объединённые изменения: [измерения Fast-LoRA на CUDA T4](https://github.com/MakazhanAlpamys/Soup/pull/2621), [исправления шаблонов Spaces](https://github.com/MakazhanAlpamys/Soup/pull/2657), [учёт workspace cuBLAS в оценке памяти](https://github.com/MakazhanAlpamys/Soup/pull/2749), [документация и проверки MLX](https://github.com/MakazhanAlpamys/Soup/pull/2786), [выбор оборудования Spaces](https://github.com/MakazhanAlpamys/Soup/pull/2815), [понятные ошибки деплоя](https://github.com/MakazhanAlpamys/Soup/pull/2834) и [заметки о пропускной способности QuEST](https://github.com/MakazhanAlpamys/Soup/pull/2715).
+- [Измерения Fast-LoRA на CUDA T4](https://github.com/MakazhanAlpamys/Soup/pull/2621) · [регрессионные проверки шаблонов чата](https://github.com/MakazhanAlpamys/Soup/pull/2657)
+- [Учёт workspace cuBLAS в оценке памяти](https://github.com/MakazhanAlpamys/Soup/pull/2749) · [документация и проверки MLX](https://github.com/MakazhanAlpamys/Soup/pull/2786)
+- [Выбор оборудования Hugging Face Spaces](https://github.com/MakazhanAlpamys/Soup/pull/2815) · [понятные ошибки деплоя](https://github.com/MakazhanAlpamys/Soup/pull/2834)
+- [Заметки о пропускной способности QuEST](https://github.com/MakazhanAlpamys/Soup/pull/2715)
 
-Стараюсь ясно описывать происхождение моделей, требования к оборудованию и ограничения, опираясь на воспроизводимые проверки и измеряемые результаты.
+В работе стараюсь ясно показывать происхождение моделей, ограничения и требования к оборудованию, подтверждая выводы воспроизводимыми проверками и измерениями.
 
 ---
 
-<sub>Pixel-art cover and icon assets: <a href="https://github.com/Feruum/SoupTask/tree/main/assets/readme/soup-icons">SoupTask assets by Feruum</a>.</sub>
+<a id="zh"></a>
+## 中文
+
+我为日常设备开发实用的 AI 软件，关注本地模型推理、桌面与移动端工作流，以及清晰、可复现的性能和硬件需求评估。
+
+### 项目
+
+| 项目 | 方向 |
+| --- | --- |
+| **[CapyRiver](https://capyriver.pages.dev/)** | 面向 Android 和 PC 的本地 AI。可在[下载页面](https://github.com/capyriver/CapyRiver-Downloads/releases)获取版本。 |
+| **[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver)** | Windows AI 工作空间，整合本地模型、对话、文件、项目和可选 MCP 工具。 |
+| **[Soup](https://github.com/MakazhanAlpamys/Soup)** | 参与开源项目，涉及模型训练与评估、显存估算及 Hugging Face Spaces 集成。 |
+
+### 已合并的代表性贡献
+
+- [Fast-LoRA CUDA T4 实测](https://github.com/MakazhanAlpamys/Soup/pull/2621) · [聊天模板回归测试](https://github.com/MakazhanAlpamys/Soup/pull/2657)
+- [在显存估算中计入 cuBLAS workspace](https://github.com/MakazhanAlpamys/Soup/pull/2749) · [MLX 文档与检查](https://github.com/MakazhanAlpamys/Soup/pull/2786)
+- [Hugging Face Spaces 硬件选择](https://github.com/MakazhanAlpamys/Soup/pull/2815) · [更清晰的部署错误](https://github.com/MakazhanAlpamys/Soup/pull/2834)
+- [QuEST 基准测试容量说明](https://github.com/MakazhanAlpamys/Soup/pull/2715)
+
+我重视模型来源、硬件要求和限制的透明说明，并尽量用可复现的检查和实测数据支撑结论。
+
+---
+
+<a id="kk"></a>
+## Қазақша
+
+Күнделікті қолданылатын құрылғыларға арналған пайдалы AI бағдарламаларын жасаймын. Негізгі бағытым — модельдерді құрылғыда іске қосу, компьютер мен мобильді құрылғыларға ыңғайлы құралдар әзірлеу және өнімділік пен жабдық талаптарын нақты өлшеу.
+
+### Жобалар
+
+| Жоба | Бағыты |
+| --- | --- |
+| **[CapyRiver](https://capyriver.pages.dev/)** | Android пен компьютерге арналған жергілікті AI. Нұсқаларды [жүктеу бетінен](https://github.com/capyriver/CapyRiver-Downloads/releases) алуға болады. |
+| **[NORA — CapyRiver Edition](https://github.com/capyriver/NORA-CapyRiver)** | Windows жүйесіне арналған AI жұмыс кеңістігі: жергілікті модельдер, чаттар, файлдар, жобалар және қосымша MCP құралдары. |
+| **[Soup](https://github.com/MakazhanAlpamys/Soup)** | Ашық жобаға үлес: модельдерді үйрету мен бағалау, жад шығынын есептеу және Hugging Face Spaces интеграциясы. |
+
+### Біріктірілген таңдаулы өзгерістер
+
+- [CUDA T4 жүйесіндегі Fast-LoRA өлшемдері](https://github.com/MakazhanAlpamys/Soup/pull/2621) · [чат үлгілеріне регрессиялық тексерулер](https://github.com/MakazhanAlpamys/Soup/pull/2657)
+- [Жад есебіне cuBLAS workspace қосу](https://github.com/MakazhanAlpamys/Soup/pull/2749) · [MLX құжаттамасы мен тексерулері](https://github.com/MakazhanAlpamys/Soup/pull/2786)
+- [Hugging Face Spaces жабдығын таңдау](https://github.com/MakazhanAlpamys/Soup/pull/2815) · [түсініктірек жариялау қателері](https://github.com/MakazhanAlpamys/Soup/pull/2834)
+- [QuEST өнімділік сынағының сыйымдылығы туралы жазбалар](https://github.com/MakazhanAlpamys/Soup/pull/2715)
+
+Модельдердің қайдан алынғанын, шектеулерін және жабдық талаптарын ашық көрсетуге тырысамын. Қорытындыларды қайталанатын тексерулер мен нақты өлшемдерге сүйеніп жасаймын.
+
+---
+
+<p align="center">
+  <a href="https://github.com/Feruum/SoupTask/tree/main/assets/readme/soup-icons">
+    <sub>Pixel-art icons: SoupTask by Feruum</sub>
+  </a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9A4F31,55:211B19,100:0B0D10&height=110&section=footer&animation=fadeIn" alt="" width="100%" />
+</p>
