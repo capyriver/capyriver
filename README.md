@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/animated-soup-banner.svg" alt="Soup pixel-art banner: steaming bowl, copper ladle, recipe and Kazakh ornament" width="100%" />
+  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/animated-soup-banner.gif" alt="Soup pixel-art banner: steaming bowl, copper ladle, recipe and Kazakh ornament" width="100%" />
 </p>
 
 <p align="center">
