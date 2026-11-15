@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/soup-banner-scoop.gif?v=20261116a" alt="Looping Soup banner: the ladle dips into the bowl, scoops broth, then lifts to present it beside the Soup. lettering" width="100%" />
+  <img src="https://raw.githubusercontent.com/capyriver/capyriver/main/soup-banner-hero-v2.gif?v=20261116b" alt="Animated pixel-art Soup banner with a detailed bowl, a ladle that scoops broth, and the original Soup branding" width="100%" />
 </p>
 
 <p align="center">
