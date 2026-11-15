@@ -1,26 +1,31 @@
-<!-- SoupTask artwork is used with the owner's permission and credited below. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-cover.png" alt="Soup pixel-art banner: bowl, ladle and Kazakh ornament" width="100%" />
+  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/soup-logo.svg" width="48" height="48" alt="Soup mark" />
 </p>
 
 <h1 align="center">CapyRiver</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&weight=500&size=17&duration=3200&pause=1100&color=C97752&center=true&vCenter=true&width=720&height=46&lines=Local+AI+for+everyday+devices;Building+CapyRiver+and+NORA;Learning+in+open+source+with+Soup" alt="Local AI for everyday devices — building CapyRiver and NORA — learning in open source with Soup" />
+  <strong>Local AI · Practical tools · Open source</strong><br />
+  Building useful AI software for everyday devices.
 </p>
 
 <p align="center">
-  <a href="#en">EN</a>&nbsp; · &nbsp;<a href="#ru">RU</a>&nbsp; · &nbsp;<a href="#zh">中文</a>&nbsp; · &nbsp;<a href="#kk">ҚАЗ</a>
+  <a href="https://capyriver.pages.dev/"><img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-open.png" width="24" height="24" alt="" /> Website</a> ·
+  <a href="https://github.com/capyriver/NORA-CapyRiver"><img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-code.png" width="24" height="24" alt="" /> NORA</a> ·
+  <a href="https://github.com/capyriver/CapyRiver-Downloads/releases"><img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-phone.png" width="24" height="24" alt="" /> Apps</a> ·
+  <a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-check.png" width="24" height="24" alt="" /> Soup work</a>
 </p>
 
 <p align="center">
-  <a href="https://capyriver.pages.dev/"><img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-open.png" width="36" alt="" /><br />Website</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/capyriver/NORA-CapyRiver"><img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-code.png" width="36" alt="" /><br />NORA</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/capyriver/CapyRiver-Downloads/releases"><img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-phone.png" width="36" alt="" /><br />Downloads</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-check.png" width="36" alt="" /><br />Soup</a>
+  <a href="#en">English</a> · <a href="#ru">Русский</a> · <a href="#zh">中文</a> · <a href="#kk">Қазақша</a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-cover.png" alt="Soup pixel-art banner: a steaming bowl, ladle and recipe in a dark Kazakh-inspired scene" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&weight=500&size=16&duration=3000&pause=1000&color=C97752&center=true&vCenter=true&width=720&height=42&lines=Ideas+turn+into+working+software;Local+AI+for+everyday+devices;Learning%2C+building%2C+sharing" alt="Animated lines: Ideas turn into working software — Local AI for everyday devices — Learning, building, sharing" />
 </p>
 
 ---
