@@ -17,6 +17,8 @@
   <a href="https://capyriver.pages.dev/"><img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-open.png" width="22" height="22" alt="" /> Website</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/capyriver/CapyRiver-Downloads/releases"><img src="https://raw.githubusercontent.com/Feruum/SoupTask/main/assets/readme/soup-icons/soup-start.png" width="22" height="22" alt="" /> Downloads</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/miron-s-63007144a/">LinkedIn</a>
 </p>
 
 <p align="center">
